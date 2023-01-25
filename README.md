@@ -1,7 +1,7 @@
 # Python-DeepLearning
 ### Implementing Deep Learning Theoretical Principles with Python
 
-[中文说明](./ChineseReadmd.md)
+[中文说明](./ChineseReadme.md)
 
 Deep learning, as one of the three pillars of next-generation AI--the other two being big data and cloud computing, is a critical theoretical component for implementing a plethora of machine learning and AI technologies amid Autopilot to ChatGPT. 
 
