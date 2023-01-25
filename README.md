@@ -3,7 +3,7 @@
 
 [中文说明](./ChineseReadme.md)
 
-Deep learning, as one of the three pillars of next-generation AI--the other two being big data and cloud computing, is a critical theoretical component for implementing a plethora of machine learning and AI technologies amid Autopilot to ChatGPT. 
+Deep learning, as one of the three pillars of next-generation AI--the other two being big data and cloud computing, is a critical theoretical component for implementing a plethora of machine learning and AI technologies, ranging from Autopilot to ChatGPT. 
 
 Simultaneously, the innovation of Python has grown dramatically in the last decade. You can use Python in statistics, website development, and facial recognition. On top of that, Python is also used in groundbreaking areas of IT, like machine learning and data science. And it makes Python one of the most practical tools for deep learning implementation.
 
