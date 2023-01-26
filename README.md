@@ -7,7 +7,7 @@ Deep learning, as one of the three pillars of next-generation AI--the other two 
 
 Simultaneously, the innovation of Python has grown dramatically in the last decade. You can use Python in statistics, website development, and facial recognition. On top of that, Python is also used in groundbreaking areas of IT, like machine learning and data science. And it makes Python one of the most practical tools for deep learning implementation.
 
-In this repository, I only used Python to demonstrate the fundamentals of deep learning, with no assistance from third-party frameworks like TensorFlow or PyTorch. It is your first step toward deep learning. I wrote these notebooks and inline annotations in Chinese for my studies. And I'll keep this page updated with relevant notes for each topic. Please keep checking back later.
+In this repository, I only used Python to demonstrate the fundamentals of deep learning, with no assistance from third-party frameworks like TensorFlow or PyTorch. It is your first step toward deep learning. Initially, I wrote these notebooks and inline annotations in Chinese for my studies. And I'll keep this page updated with relevant notes for each topic. Please keep checking back later.
 
 You can find the datasets in the notebooks by [this link](https://pan.baidu.com/s/1LFtqMtOZ4w2LeRfgFwm-fA?pwd=yek8).
 
