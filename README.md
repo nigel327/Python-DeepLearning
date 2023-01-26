@@ -14,7 +14,7 @@ You can find the datasets in the notebooks by [this link](https://pan.baidu.com/
 ### List of Contents
 
 1.	Python Base for Deep Learning
-2.	Perception
+2.	Perceptron Neural Network
 3.	Activation Functions
 4.	Three-Layer Neural Networks
 5.	Softmax Activation Function
