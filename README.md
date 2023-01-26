@@ -13,10 +13,10 @@ You can find the datasets in the notebooks by [this link](https://pan.baidu.com/
 
 ### List of Contents
 
-1.	Python Base for Deep Learning
-2.	Perceptron Neural Network
-    - [Perceptron Explained Using Python Example](https://dzone.com/articles/perceptron-explained-using-python-example-data-ana)
-    - [Multi-layer Perceptron with Titanic Dataset](https://www.kaggle.com/code/androbomb/simple-nn-with-python-multi-layer-perceptron)
+1.	[Python Base for Deep Learning](./01.%20Python%20深度学习编程基础.ipynb)
+2.	[Perceptron Neural Network](./02.%20感知机基础运算.ipynb)
+    - Extension: [Perceptron Explained Using Python Example](https://dzone.com/articles/perceptron-explained-using-python-example-data-ana)
+    - Extension: [Multi-layer Perceptron with Titanic Dataset](https://www.kaggle.com/code/androbomb/simple-nn-with-python-multi-layer-perceptron)
 3.	Activation Functions
 4.	Three-Layer Neural Networks
 5.	Softmax Activation Function
