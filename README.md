@@ -37,7 +37,7 @@ You can find the datasets in the notebooks by [this link](https://pan.baidu.com/
 22.	Implementing Convolutional Neural Networks
 
 References:
-- [CS231n Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+- [CS231n Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) | [CS231n Git](https://github.com/cs231n/cs231n.github.io)
 - [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Deep Learning from Scratch](https://github.com/oreilly-japan/deep-learning-from-scratch)
