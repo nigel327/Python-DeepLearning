@@ -15,6 +15,8 @@ You can find the datasets in the notebooks by [this link](https://pan.baidu.com/
 
 1.	Python Base for Deep Learning
 2.	Perceptron Neural Network
+    - [Perceptron Explained Using Python Example](https://dzone.com/articles/perceptron-explained-using-python-example-data-ana)
+    - [Multi-layer Perceptron with Titanic Dataset](https://www.kaggle.com/code/androbomb/simple-nn-with-python-multi-layer-perceptron)
 3.	Activation Functions
 4.	Three-Layer Neural Networks
 5.	Softmax Activation Function
@@ -37,7 +39,7 @@ You can find the datasets in the notebooks by [this link](https://pan.baidu.com/
 22.	Implementing Convolutional Neural Networks
 
 References:
-- [CS231n Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) | [CS231n Git](https://github.com/cs231n/cs231n.github.io)
+- [CS231n Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
 - [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Deep Learning from Scratch](https://github.com/oreilly-japan/deep-learning-from-scratch)
