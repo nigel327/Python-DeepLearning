@@ -1,9 +1,7 @@
 # Python-DeepLearning
 ### Implementing Deep Learning Theoretical Principles with Python
 
-[中文说明](./ChineseReadme.md)
-
-Deep learning, as one of the three pillars of next-generation AI--the other two being big data and cloud computing, is a critical theoretical component for implementing a plethora of machine learning and AI technologies, ranging from Autopilot to ChatGPT. 
+Deep learning, as one of the three pillars of next-generation AI--the other two being big data and cloud computing, is a critical theoretical component for implementing various machine learning and AI technologies, ranging from Autopilot to ChatGPT. 
 
 Simultaneously, the innovation of Python has grown dramatically in the last decade. You can use Python in statistics, website development, and facial recognition. On top of that, Python is also used in groundbreaking areas of IT, like machine learning and data science. And it makes Python one of the most practical tools for deep learning implementation.
 
@@ -36,7 +34,7 @@ In this repository, I only used Python to demonstrate the fundamentals of deep l
 21.	Dropout Algorithm
 22.	Implementing Convolutional Neural Networks
 
-References:
+### References
 - [CS231n Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
 - [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [Dive into Deep Learning](https://d2l.ai/)
