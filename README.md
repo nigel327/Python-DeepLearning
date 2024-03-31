@@ -9,10 +9,6 @@ Simultaneously, the innovation of Python has grown dramatically in the last deca
 
 In this repository, I only used Python to demonstrate the fundamentals of deep learning, with no assistance from third-party frameworks like TensorFlow or PyTorch. It is your first step toward deep learning. Initially, I wrote these notebooks and inline annotations in Chinese for my studies. And I'll keep this page updated with relevant notes for each topic. Please keep checking back later.
 
-You can find the datasets in the notebooks by [this link](https://pan.baidu.com/s/1LFtqMtOZ4w2LeRfgFwm-fA?pwd=yek8) and watch the full series of video demonstrations on my [YouTube Channel](https://www.youtube.com/watch?v=zWghJs-tudM&list=PL9FmM4XAZdqBkn-r0Y8HXw0HL5DE10YGx):
-
-![](./img/y2.png)
-
 ### List of Contents
 
 1.	[Python Base for Deep Learning](./01.%20Python%20深度学习编程基础.ipynb)
