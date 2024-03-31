@@ -20,19 +20,21 @@ In this repository, I only used Python to demonstrate the fundamentals of deep l
 7.	Loss Functions
 8.	Gradient Descent
 9.	Learning Algorithms
-10.	Backpropagation
-11.	Backpropagation in Affine and Softmax Layers
-12.	Backpropagation in Two-Layer Neural Networks
-13.	Gradient Descent Stochastic and Momentum
-14.	Gradient Descent Optimization
-15.	Gradient Descent Optimization with MNIST
-16.	Weights and Biases initialization
-17.	Weights and Biases initialization with MNIST
-18.	Batch Normalization
-19.	Underfitting and Overfitting
-20.	Weight Decay
-21.	Dropout Algorithm
-22.	Implementing Convolutional Neural Networks
+10.	[Backpropagation](https://github.com/nigel327/Python-DeepLearning/blob/main/10.%20%E8%AF%AF%E5%B7%AE%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%B3%95.ipynb)
+11.	 - Extension: [What is backpropagation doing?](https://www.3blue1brown.com/lessons/backpropagation)
+     - Extension: [Backpropagation calculus](https://www.3blue1brown.com/lessons/backpropagation-calculus) 
+12.	Backpropagation in Affine and Softmax Layers
+13.	Backpropagation in Two-Layer Neural Networks
+14.	Gradient Descent Stochastic and Momentum
+15.	Gradient Descent Optimization
+16.	Gradient Descent Optimization with MNIST
+17.	Weights and Biases initialization
+18.	Weights and Biases initialization with MNIST
+19.	Batch Normalization
+20.	Underfitting and Overfitting
+21.	Weight Decay
+22.	Dropout Algorithm
+23.	Implementing Convolutional Neural Networks
 
 ### References
 - [CS231n Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
